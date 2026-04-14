@@ -1,0 +1,1 @@
+This project demonstrates advanced data analysis using SQL by applying key techniques such as joins, filtering, window functions, subqueries, Common Table Expressions (CTEs), and CASE statements. The goal was to transform raw data into meaningful insights and answer analytical questions using efficient and well-structured queries.
